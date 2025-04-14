@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+margin: 0;
+
+}
+.body{
+background-image: url(./73d9647174da5984a459ed16f7e6a7e6.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+background-size: cover;
+
+
+
+margin: 0;
+font-family: "Noto Sans Symbols 2", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+input{
+border: 1px solid red;
+outline: none;
+padding: 8px;
+border-radius:10px;
+}
+.form{
+border-radius: 10px;
+border: 1px solid purple;
+background-color: blueviolet;
+display: flex;
+justify-content:space-around;
+align-items: center;
+outline: 8px;
+background-position: center;
+
+}
+.form{
+justify-content: center;
+border-radius: 10px;
+border: 1px solid purple;
+background-color: blueviolet;
+display: flex;
+justify-content:space-around;
+align-items:center;
+outline: 8px;
+
+
+
+
+}
+.nav{
+display: flex;
+justify-content: space-between;
+list-style: none;
+text-decoration-line: none;
+}
+.navbar{
+background-size: 20px 0px;
+width:10px; 
+height: 20px;
+font-size: 20px;
+}
+.border{
+border: 2px solid red;
+height: 250px;
+width: 350px;
+
+
+}
+.photo{
+height: 150px;
+
+}
+.fontcolor{
+font-style: italic;
+color: green;
+
+}
+.textsize{
+font-size: larger;
+
+
+
+}
+.butter{
+background-color: green;
+box-shadow: 20px;
+position: relative;
+
+
+}
+.never{
+border-radius: 2px;
+background-color: red;
+border: 2px red;
+
+
+
+
+
+
+}
+
+.bumblebee{
+border:2px solid yellow;
+background-color: yellowgreen;
+border-radius: 23px;
+}
+.bumblebee2{
+    border:2px solid yellow;
+    background-color:yellowgreen;
+    display: flex;
+    justify-content: center;
+    border-radius: 23px;
+    }
+    .optimus{
+        border:2px solid red;
+        background-color: lightblue;
+        border-radius: 23px;
+        }
+        .optimus2{
+            border:2px solid red;
+            background-color:lightblue;
+            display: flex;
+            justify-content: center;
+            border-radius: 23px;
+            }   
+            .megatron{
+                border:2px solid purple;
+                background-color: grey;
+                border-radius: 23px;
+                }
+                .megatron2{
+                    border:2px solid purple;
+                    background-color:grey;
+                    display: flex;
+                    justify-content: center;
+                    border-radius: 23px;
+                    }
+                    .shockwave{
+                    border: 2px solid purple;
+                    background-color: blueviolet;
+                    border-radius: 23px;
+
+
+                    }
+
+                    
+        
+                        .shockwave2{
+                            border:2px solid purple;
+                            background-color:blueviolet;
+                            display: flex;
+                            justify-content: center;
+                            border-radius: 23px;
+                            }  
+                            .ratchet{
+                                border:2px solid yellowgreen;
+                                background-color:yellow;
+                                display: flex;
+                                justify-content: center;
+                                border-radius: 23px;
+                                }
+                                .ratchet2{
+                                    border:2px solid yellowgreen;
+                                    background-color:yellow;
+                                    display: flex;
+                                    justify-content: center;
+                                    border-radius: 23px;
+                                    }                                                                                                        
+.data{
+display: flex;
+justify-content: center;
+align-items: center;
+border: 2px solid red;
+height: 234px;
+width: 1234px;
+}
+.g1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.data2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid purple;
+    height: 234px;
+    width: 1234px;
+}
+.sigmas{
+height: 65px;
+width: 100px;
+border-radius: 23px;
+background-color:white;
+border: 2px solid blue;
+}
+.weapon{
+text-decoration: none;
+
+
+}
+.style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Noto Sans Symbols 2", serif;
+      font-weight: 400;
+      font-style: normal;
+      text-shadow: 12px;
+}
+.cenetr{
+display: flex;
+justify-content:center;
+align-items: center;
+}
+.can{
+display: flex;
+justify-content: center;
+align-items: center;
+}
